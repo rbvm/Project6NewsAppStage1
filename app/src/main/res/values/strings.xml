@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The Guardian</string>
+
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news_found">There are currently no news.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="please_connect">Please connect to the internet!</string>
+
+    <!-- Get the article category [CHAR LIMIT=NONE] -->
+    <string name="article_category_item">Article Category</string>
+
+    <!-- Get the article title [CHAR LIMIT=NONE] -->
+    <string name="article_title_item">Article Title</string>
+
+    <!-- Get the article author [CHAR LIMIT=NONE] -->
+    <string name="article_author_item">Article Author</string>
+
+    <!-- Get the article date [CHAR LIMIT=NONE] -->
+    <string name="article_date_item">Article Date</string>
+
+</resources>
